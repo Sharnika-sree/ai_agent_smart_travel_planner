@@ -1,0 +1,132 @@
+[
+  {
+    "id": "HT-SIN-001",
+    "destination": "Singapore",
+    "hotel_name": "Marina Bay Sands",
+    "rating": 4.9,
+    "price_per_night": 48000,
+    "currency": "INR",
+    "category": "luxury",
+    "amenities": ["Infinity Pool", "SkyPark Access", "Luxury Spa", "Casino"]
+  },
+  {
+    "id": "HT-SIN-002",
+    "destination": "Singapore",
+    "hotel_name": "V Hotel Lavender",
+    "rating": 4.1,
+    "price_per_night": 9500,
+    "currency": "INR",
+    "category": "standard",
+    "amenities": ["Next to MRT", "Outdoor Pool", "Fitness Center", "Free Wi-Fi"]
+  },
+  {
+    "id": "HT-SIN-003",
+    "destination": "Singapore",
+    "hotel_name": "Hotel Boss",
+    "rating": 4.0,
+    "price_per_night": 7000,
+    "currency": "INR",
+    "category": "economy",
+    "amenities": ["Central Location", "Swimming Pool", "Convenience Store", "Free Wi-Fi"]
+  },
+  {
+    "id": "HT-SIN-004",
+    "destination": "Singapore",
+    "hotel_name": "ibis budget Singapore Crystal",
+    "rating": 3.7,
+    "price_per_night": 3800,
+    "currency": "INR",
+    "category": "budget",
+    "amenities": ["Compact Cozy Rooms", "Air Conditioning", "Free Wi-Fi"]
+  },
+  {
+    "id": "HT-BKK-001",
+    "destination": "Bangkok",
+    "hotel_name": "The Peninsula Bangkok",
+    "rating": 4.9,
+    "price_per_night": 22000,
+    "currency": "INR",
+    "category": "luxury",
+    "amenities": ["Chao Phraya River View", "Luxury Spa", "Ferry Shuttle"]
+  },
+  {
+    "id": "HT-BKK-002",
+    "destination": "Bangkok",
+    "hotel_name": "Grande Centre Point Sukhumvit 55",
+    "rating": 4.5,
+    "price_per_night": 6500,
+    "currency": "INR",
+    "category": "standard",
+    "amenities": ["Onsen Spa", "Outdoor Pool", "BTS Skytrain Nearby"]
+  },
+  {
+    "id": "HT-BKK-003",
+    "destination": "Bangkok",
+    "hotel_name": "Lub d Bangkok Siam",
+    "rating": 4.2,
+    "price_per_night": 2400,
+    "currency": "INR",
+    "category": "budget",
+    "amenities": ["Opposite National Stadium BTS", "Co-working lounge", "Cafe"]
+  },
+  {
+    "id": "HT-KUL-001",
+    "destination": "Kuala Lumpur",
+    "hotel_name": "Mandarin Oriental Kuala Lumpur",
+    "rating": 4.8,
+    "price_per_night": 18000,
+    "currency": "INR",
+    "category": "luxury",
+    "amenities": ["KLCC Twin Towers view", "Infinity Pool", "Fine Dining"]
+  },
+  {
+    "id": "HT-KUL-002",
+    "destination": "Kuala Lumpur",
+    "hotel_name": "Aloft Kuala Lumpur Sentral",
+    "rating": 4.4,
+    "price_per_night": 5200,
+    "currency": "INR",
+    "category": "standard",
+    "amenities": ["Direct KLIA Express Access", "Rooftop Pool", "Bar"]
+  },
+  {
+    "id": "HT-KUL-003",
+    "destination": "Kuala Lumpur",
+    "hotel_name": "Travelodge Bukit Bintang",
+    "rating": 3.9,
+    "price_per_night": 2500,
+    "currency": "INR",
+    "category": "budget",
+    "amenities": ["Walk to street food Jalan Alor", "Air Conditioning", "Free Wi-Fi"]
+  },
+  {
+    "id": "HT-COK-001",
+    "destination": "Munnar",
+    "hotel_name": "Fragrant Nature Munnar",
+    "rating": 4.7,
+    "price_per_night": 12000,
+    "currency": "INR",
+    "category": "luxury",
+    "amenities": ["Mountain View Rooms", "Ayurvedic Spa", "Fireplace"]
+  },
+  {
+    "id": "HT-COK-002",
+    "destination": "Munnar",
+    "hotel_name": "Tea County Munnar (KTDC)",
+    "rating": 4.2,
+    "price_per_night": 4500,
+    "currency": "INR",
+    "category": "standard",
+    "amenities": ["Surrounded by tea estates", "Health Club", "Restaurant"]
+  },
+  {
+    "id": "HT-COK-003",
+    "destination": "Munnar",
+    "hotel_name": "Green Trees Munnar Homestay",
+    "rating": 4.0,
+    "price_per_night": 1800,
+    "currency": "INR",
+    "category": "budget",
+    "amenities": ["Plantation walk", "Home cooked Kerala meals", "Mountain view"]
+  }
+]
